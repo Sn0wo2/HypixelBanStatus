@@ -1,0 +1,2 @@
+# HypixelBanStatus
+Hypixel Ban Status
