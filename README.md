@@ -1,2 +1,2 @@
 # HypixelBanStatus
-Hypixel Ban Status
+preview: https://meownya.asia/
